@@ -14,8 +14,8 @@ I'm a technologist in Big Data in Agribusiness and I'm working as a developer at
 
 ✍️ Sometimes I write a little about the things that I learned.
 
-[![Medium](https://i.ibb.co/tHHfgFg/ezgif-com-resize.gif)](https://medium.com/@lucasbsilva29)
-[![Dev.to](https://i.ibb.co/TwFZdtx/ezgif-com-gif-maker.gif)](https://dev.to/lucs1590)
+[![Medium Badge](https://img.shields.io/badge/Medium-@lucasbsilva29-red?style=flat-square&labelColor=gray&logo=medium&logoColor=black&link=https://medium.com/@lucasbsilva29)](https://medium.com/@lucasbsilva29) 
+[![Dev.To Badge](https://img.shields.io/badge/Dev.to-@lucs1590-red?style=flat-square&labelColor=gray&logo=medium&logoColor=black&link=https://dev.to/lucs1590)](https://dev.to/lucs1590) 
 
 To more informations, access:
  - https://lucasbrito.now.sh
