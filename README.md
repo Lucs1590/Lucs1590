@@ -10,12 +10,12 @@ I'm a technologist in Big Data in Agribusiness and I'm working as a developer at
 
 🏃 As a hobby, I run every week and do some exercises.
 
-[![Strava](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-48.png)](http://strava.com/athletes/47005114)
+[![Strava Badge](https://img.shields.io/badge/Strava-Lucas%20Brito-red?style=flat-square&labelColor=gray&logo=strava&logoColor=black&link=http://strava.com/athletes/47005114)](http://strava.com/athletes/47005114) 
 
 ✍️ Sometimes I write a little about the things that I learned.
 
 [![Medium Badge](https://img.shields.io/badge/Medium-@lucasbsilva29-red?style=flat-square&labelColor=gray&logo=medium&logoColor=black&link=https://medium.com/@lucasbsilva29)](https://medium.com/@lucasbsilva29) 
-[![Dev.To Badge](https://img.shields.io/badge/Dev.to-@lucs1590-red?style=flat-square&labelColor=gray&logo=medium&logoColor=black&link=https://dev.to/lucs1590)](https://dev.to/lucs1590) 
+[![Dev.To Badge](https://img.shields.io/badge/Dev.to-@lucs1590-red?style=flat-square&labelColor=gray&logo=dev.to&logoColor=black&link=https://dev.to/lucs1590)](https://dev.to/lucs1590) 
 
 To more informations, access:
  - https://lucasbrito.now.sh
