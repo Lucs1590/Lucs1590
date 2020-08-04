@@ -19,3 +19,5 @@ I'm a technologist in Big Data in Agribusiness and I'm working as a developer at
 
 To more informations, access:
  - https://lucasbrito.now.sh
+ 
+![My Octocat](https://raw.githubusercontent.com/Lucs1590/Lucs1590/master/octocat.png)
