@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-lucas.brito.100-red?style=flat-square&labelColor=gray&logo=facebook&logoColor=black&link=https://www.facebook.com/lucas.brito.100)](https://www.facebook.com/lucas.brito.100/) 
 
 Hi guys 👋, I'm Lucas, but everyone calls me Brito, and feel free to call too. I have a lot of dreams, and they move me.
-I'm a technologist in Big Data in Agribusiness and I'm working as a developer at NK Systems. I'm also doing a Masters in Computer Science at UNESP.
+I'm a technologist in Big Data in Agribusiness and I'm working as a Machine Learning Engineer at Agi. I'm also doing a Masters in Computer Science at UNESP.
 
 🏃 As a hobby, I run every week and do some exercises.
 
