@@ -19,4 +19,4 @@ I'm a technologist in Big Data in Agribusiness and I'm working as a Machine Lear
 
 To more informations, access:
 
-- <https://lucasbrito.now.sh>
+- <https://www.lucasbrito.com.br>
