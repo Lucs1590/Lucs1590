@@ -24,6 +24,7 @@ Sometimes, I write about the things I learn:
 
 🚴 **Follow My Fitness Journey:**
 I enjoy running and staying active. Follow my weekly runs on Strava:
+
 [![Strava Badge](https://img.shields.io/badge/Strava-Lucas%20Brito-red?style=flat-square&labelColor=gray&logo=strava&logoColor=black&link=http://strava.com/athletes/47005114)](http://strava.com/athletes/47005114)
 
 🌐 **More About Me:**
